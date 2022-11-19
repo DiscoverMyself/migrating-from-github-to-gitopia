@@ -63,11 +63,11 @@ Sample Url: ```gitopia://gitopia130xtlqs7jxggp7emxmhzc00axpy658qwy804ud/hello-wo
 ## 9. Fill in the details as shown below.
 
 
-```
+
 - **Name:** GITOPIA_WALLET
 
 - **Value:** Paste the contents for your Gitopia Wallet file here
-```
+
 
 A typical wallet file content is shown below:
 
