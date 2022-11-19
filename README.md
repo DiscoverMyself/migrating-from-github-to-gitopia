@@ -1,5 +1,10 @@
 Migrating from GitHub to Gitopia
 
+Gitopia Mirror Action
+Gitopia Mirror Action is a GitHub action for mirroring your GitHub repoistories automatically to another remote repository on Gitopia. Branches, tags, and commits can be mirrored.
+
+Gitopia Mirror Action is available in the GitHub Marketplace.
+
 Pre-requisite:
 To use the Gitopia Mirror Action:
 
