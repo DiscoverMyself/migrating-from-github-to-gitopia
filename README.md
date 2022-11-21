@@ -150,7 +150,7 @@ jobs:
 
 - ```force``` (optional): true/false, Force push to gitopia remote repository? Default is ```false```, setting this to true will allow the mirror action to overwrite your gitopia remote repository. The changes done directly in your gitopia remote repository will be overwritten.
 
-**NOTE**
+**NOTE:**
 The checkout action that we use above, by default, checks out a shallow copy of your repo without history. fetch-depth: 0 configures it to checkout the branch with history.
 
 ```
